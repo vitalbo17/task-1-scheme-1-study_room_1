@@ -1,1 +1,5 @@
-
+Водитель:
+id водителя - int
+ФИО - VarChar
+Авто - VarChar
+Рейтинг - DECIMAL (1,1)*
